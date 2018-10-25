@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians,instruments){
 //a function that accepts one argument and an array of facts
 //build a while loop = specified condition is true
 function johnLennonFacts(){
-  var facts = ["He was the last Beatle to learn how to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"];
+  var facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"];
   var newFacts = [];
   var i=0
   //defines the condition
