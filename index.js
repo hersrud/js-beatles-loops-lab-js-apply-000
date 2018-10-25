@@ -21,3 +21,14 @@ function johnLennonFacts(){
   }
   return newFacts;
 }
+
+//a function that accepts a number as a parameter
+//build a do-while loop = loops through a block of code while a condition is true
+function iLoveTheBeatles (num) {
+  var phrases = [];
+  do {
+    phrases.push("I love the Beatles!");
+    num++
+  } while (num < 15);
+  return phrases;
+}
